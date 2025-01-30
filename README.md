@@ -1,3 +1,3 @@
 # Git-Practice
 
-Favorite snack is squash
+Favorite snack is popcorn
